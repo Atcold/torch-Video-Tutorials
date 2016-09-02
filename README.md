@@ -3,7 +3,7 @@
 > *Light your way in Deep Learning with* Torch :flashlight:
 
 This aims to be a growing collections of introductory video tutorials on the [*Torch*](http://torch.ch) ecosystem.
-*Torch* is one of the fastest and most flexible frameworks existing for Machine and Deep Learning.
+*Torch* is one of the fastest and most flexible framework existing for Machine and Deep Learning.
 And yes, flexibility was used to come with an intimidatig learning curve... until now.
 
 Enjoy the view of these videos and code transcripts (which will be added soon).
