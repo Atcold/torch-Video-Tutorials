@@ -4,7 +4,7 @@
 
 This aims to be a growing collections of introductory video tutorials on the [*Torch*](http://torch.ch) ecosystem.
 *Torch* is one of the fastest and most flexible frameworks existing for Machine and Deep Learning.
-And yes, flexibility was used to come with a perhaps learning curve... until now.
+And yes, flexibility was used to come with an intimidatig learning curve... until now.
 
 Enjoy the view of these videos and code transcripts (which will be added soon).
 
