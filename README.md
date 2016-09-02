@@ -1,6 +1,6 @@
 # Torch Video Tutorials
 
-> *Light your way in Deep Learning with* Torch
+> *Light your way in Deep Learning with* Torch :flashlight:
 
 This aims to be a growing collections of introductory video tutorials on the [*Torch*](http://torch.ch) ecosystem.
 *Torch* is one of the fastest and most flexible frameworks existing for Machine and Deep Learning.
