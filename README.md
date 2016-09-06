@@ -34,6 +34,11 @@ Enjoy the view of these videos and code transcripts (which will be added soon).
 
 [![Practical 2.1 - NN backward](http://img.youtube.com/vi/VaQUx7m3oR4/0.jpg)](http://www.youtube.com/watch?v=VaQUx7m3oR4)
 
-### 2.2 - Neural Networks with `nn` package
+### 2.2 - Neural Networks – An overview on *Torch*’s `nn` package
 
-Coming soon! :grin:
+[![Practical 2.2 - nn package](http://img.youtube.com/vi/atZYdZ8hVCw/0.jpg)](http://www.youtube.com/watch?v=atZYdZ8hVCw)
+
+
+## 3 - Convolutional Neural Networks
+
+Coming soon! :blush:
