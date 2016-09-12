@@ -64,3 +64,8 @@ Usually it takes 5 minutes of recording and 30 minutes of editing.
 
 And this is pretty much it.
 I'll add something else, if it comes to mind.
+
+## Packaging and shipping
+
+Lastly, I open *Avidemux*, load the overview video, append the math and the coding ones, select *Copy* for both audio and video streams, choose *MP4 muxer* and click on *Save*.
+At the end, I fire up *YouTube*, upload my video and cry: I just pushed 48 hours of my life online.
