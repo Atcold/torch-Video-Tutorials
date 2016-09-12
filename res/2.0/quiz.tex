@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage{pgf}
+\usepackage{amsmath,amssymb,bm}
+% Random int
+\pgfmathsetseed{\number\pdfrandomseed}
+\newcommand\rint{\pgfmathparse{random(10)}\pgfmathresult}
+\begin{document}
+
+\title{Quiz: forward propagation dimensionality}
+\author{BME595 DeepLearning}
+\date{\today}
+\maketitle
+
+Given a network with the size vector $\bm{s}=(\rint, \rint, \rint, \rint)^\top$, determine $n$, $K$, $L$ and write the dimensionality of:
+%
+\begin{align*}
+  \bm{x}            \\
+  \bm{\hat x}       \\
+  \bm{a}^{(1)}      \\
+  \bm{\hat a}^{(1)} \\
+  \bm{\Theta}^{(1)} \\
+  \bm{z}^{(2)}      \\
+  \bm{a}^{(2)}      \\
+  \bm{\hat a}^{(2)} \\
+  \bm{\Theta}^{(2)} \\
+  \bm{z}^{(3)}      \\
+  \bm{a}^{(3)}      \\
+  \bm{\hat a}^{(3)} \\
+  \bm{\Theta}^{(3)} \\
+  \bm{z}^{(4)}      \\
+  \bm{a}^{(4)}      \\
+  \bm{\hat a}^{(4)} \\
+  h_{\bm{\Theta}}(\bm{x}) \\
+  \bm{y}
+\end{align*}
+
+\end{document}
