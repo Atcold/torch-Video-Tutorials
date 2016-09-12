@@ -54,12 +54,12 @@ Now that everything has been recorded (it's roughly 2 hours of video), I can sta
 ### Tips
 
 I do apply compression to my audio by choosing *Dynamic Processor* and setting *Compression* to `-14 dB` and leave the other settings unchanged.
-I have also to choose the canvas size to `720p HD` and zoom the video accordingly (*need to write zooma factor here*).
+I have also to choose the canvas size to `720p HD` and zoom the video accordingly (*need to write zoom factor here*).
 
 ## The summary
 
-After having spent 2 hours for recording the videos and 8 hours for editing them, I have a somehow rough idea of what I've been talking all the way though.
-It's time to write the *Overview* in my slide, using `typewritter font` and colours for coding element, and record that as well.
+After having spent 2 hours for recording the videos and 8 hours for editing them, I have a *somehow* rough idea of what I've been talking all the way through (at this time I usually simply want to puke...).
+It's time to write the *Overview* in my slide, using `typewritter font` and colours for coding elements, and record that as well.
 Usually it takes 5 minutes of recording and 30 minutes of editing.
 
 And this is pretty much it.
