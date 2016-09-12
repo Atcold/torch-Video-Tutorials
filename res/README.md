@@ -53,7 +53,7 @@ Now that everything has been recorded (it's roughly 2 hours of video), I can sta
 
 ### Tips
 
-I do apply compression to my audio by choosing *Dynamic Processor* and setting *Compression* to `-14 dB` and leave the other settings unchanged.
+I **do apply compression** to my audio by choosing *Dynamic Processor* and setting *Compression* to `-14 dB` and leave the other settings unchanged.
 I have also to choose the canvas size to `720p HD` and zoom the video accordingly (*need to write zoom factor here*).
 
 ## The summary
