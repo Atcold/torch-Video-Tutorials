@@ -1,0 +1,1 @@
+rubber --pdf quiz.tex

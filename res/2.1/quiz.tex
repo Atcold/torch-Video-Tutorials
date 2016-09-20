@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{pgf}
+\usepackage{amsmath,amssymb,bm}
+% Random int
+\pgfmathsetseed{\number\pdfrandomseed}
+\newcommand\rint{\pgfmathparse{random(10)}\pgfmathresult}
+\begin{document}
+
+\title{Quiz: backward propagation intuition}
+\author{BME595 DeepLearning}
+\date{\today}
+\maketitle
+
+Given equations $(1)$ and $(2)$ and that $h_{\bm{\Theta}}(\bm{x}) := \bm{a}^{(L)}$ and $E = E(h_{\bm{\Theta}}(\bm{x}))$, A) \underline{define} $\bm{\delta}^{(\ell)}$ and B) show (or prove) where equations $(3)-(5)$ come from.
+%
+\begin{align}
+  \bm{a}^{(1)}&=\bm{x}, \bm{\hat a}^{(1)}=\genfrac{[}{]}{0pt}{1}{+1}{\bm{a}^{(1)}} \\
+  \bm{z}^{(\ell+1)}&=\bm{\Theta}^{(\ell)}\bm{\hat a}^{(\ell)}, \bm{a}^{(\ell)}=\sigma(\bm{z}^{(\ell)}), \bm{\hat a}^{(\ell)}=\genfrac{[}{]}{0pt}{1}{+1}{\bm{a}^{(\ell)}} \\
+  \bm{\delta}^{(L)}&=\nabla_h E\odot\sigma^\prime(\bm{z}^{(L)}) \\
+  \bm{\delta}^{(\ell)}&=[(\bm{\Theta}^{(\ell)})^\top\bm{\delta}^{(\ell+1)}]\odot\sigma^\prime(\bm{z}^{(\ell)}) \\
+  \frac{\partial E}{\partial\bm{\Theta}^{(\ell)}}&=\bm{\hat a}^{(\ell)}(\bm{\delta}^{(\ell+1)})^\top
+\end{align}
+%
+Finally, C) discuss about $\bm{\delta}^{(1)}$ and $\frac{\partial E}{\partial \bm{x}}$.
+
+As a reminder, $\mathcal{L}(\bm{\Theta}) = \frac{1}{m} \sum_{i=1}^m E(h_{\bm{\Theta}}(\bm{x}^{(i)}))$. Sometimes, $\mathcal{L}(\bm{\Theta})$ is written $J(\bm{\Theta})$ or $J(\bm{\theta})$.
+
+\end{document}
