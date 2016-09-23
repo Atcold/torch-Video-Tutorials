@@ -45,4 +45,8 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 [![Practical 3.0 - CNN basics](http://img.youtube.com/vi/kwCbmx3tFwY/0.jpg)](http://www.youtube.com/watch?v=kwCbmx3tFwY)
 
+### 3.1 - CNN – Internals ([slide](res/3.1/slides.pdf), [script](res/3.1/script.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
+
+[![Practical 3.1 - CNN internals](http://img.youtube.com/vi/BCensUz_gQ8/0.jpg)](http://www.youtube.com/watch?v=BCensUz_gQ8)
+
 Advanced models and `optim` based training coming soon! :blush:
