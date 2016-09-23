@@ -41,4 +41,8 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 ## 3 - Convolutional Neural Networks
 
-Coming soon! :blush:
+### 3.0 - CNN – Basics ([slide](res/3.0/slides.pdf), [`lin`](res/3.0/lin.lua), [`3conv`](res/3.0/3conv.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
+
+[![Practical 3.0 - CNN basics](http://img.youtube.com/vi/kwCbmx3tFwY/0.jpg)](http://www.youtube.com/watch?v=kwCbmx3tFwY)
+
+Advanced models and `optim` based training coming soon! :blush:
