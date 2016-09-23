@@ -30,7 +30,7 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 [![Practical 2.0 – NN forward](http://img.youtube.com/vi/hxA0wxibv8g/0.jpg)](http://www.youtube.com/watch?v=hxA0wxibv8g)
 
-### 2.1 - Neural Networks – back propagation (training) ([slides](res/2.1/slides.pdf))
+### 2.1 - Neural Networks – back propagation (training) ([slides](res/2.1/slides.pdf), [quiz](res/2.1/quiz.tex))
 
 [![Practical 2.1 - NN backward](http://img.youtube.com/vi/VaQUx7m3oR4/0.jpg)](http://www.youtube.com/watch?v=VaQUx7m3oR4)
 
