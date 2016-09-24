@@ -13,40 +13,40 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 ### 1.0 - An overview on *Lua* ([slides](res/1.0/slides.pdf))
 
-[![Practical 1.0 - Lua](http://img.youtube.com/vi/QLYLOPeI92g/0.jpg)](http://www.youtube.com/watch?v=QLYLOPeI92g)
+[![Practical 1.0 - Lua](http://img.youtube.com/vi/QLYLOPeI92g/0.jpg)](https://youtu.be/QLYLOPeI92g?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 ### 1.1 - An overview on *Torch*’s `Tensor`s ([slides](res/1.1/slides.pdf))
 
-[![Practical 1.1 - Torch](http://img.youtube.com/vi/o3aRgD1uzsc/0.jpg)](http://www.youtube.com/watch?v=o3aRgD1uzsc)
+[![Practical 1.1 - Torch](http://img.youtube.com/vi/o3aRgD1uzsc/0.jpg)](https://youtu.be/o3aRgD1uzsc?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 ### 1.2 - An overview on *Torch*’s `image` package ([slides](res/1.2/slides.pdf))
 
-[![Practical 1.2 - image package](http://img.youtube.com/vi/dEjvydjcwOE/0.jpg)](http://www.youtube.com/watch?v=dEjvydjcwOE)
+[![Practical 1.2 - image package](http://img.youtube.com/vi/dEjvydjcwOE/0.jpg)](https://youtu.be/dEjvydjcwOE?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 
 ## 2 - Artificial Neural Networks
 
 ### 2.0 - Neural Networks – feed forward (inference) ([slides](res/2.0/slides.pdf), [quiz](res/2.0/quiz.tex))
 
-[![Practical 2.0 – NN forward](http://img.youtube.com/vi/hxA0wxibv8g/0.jpg)](http://www.youtube.com/watch?v=hxA0wxibv8g)
+[![Practical 2.0 – NN forward](http://img.youtube.com/vi/hxA0wxibv8g/0.jpg)](https://youtu.be/hxA0wxibv8g?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 ### 2.1 - Neural Networks – back propagation (training) ([slides](res/2.1/slides.pdf), [quiz](res/2.1/quiz.tex))
 
-[![Practical 2.1 - NN backward](http://img.youtube.com/vi/VaQUx7m3oR4/0.jpg)](http://www.youtube.com/watch?v=VaQUx7m3oR4)
+[![Practical 2.1 - NN backward](http://img.youtube.com/vi/VaQUx7m3oR4/0.jpg)](https://youtu.be/VaQUx7m3oR4?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 ### 2.2 - Neural Networks – An overview on *Torch*’s `nn` package ([slides](res/2.2/slides.pdf), [script](res/2.2/script.lua))
 
-[![Practical 2.2 - nn package](http://img.youtube.com/vi/atZYdZ8hVCw/0.jpg)](http://www.youtube.com/watch?v=atZYdZ8hVCw)
+[![Practical 2.2 - nn package](http://img.youtube.com/vi/atZYdZ8hVCw/0.jpg)](https://youtu.be/atZYdZ8hVCw?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 
 ## 3 - Convolutional Neural Networks
 
 ### 3.0 - CNN – Basics ([slide](res/3.0/slides.pdf), [`lin`](res/3.0/lin.lua), [`3conv`](res/3.0/3conv.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
 
-[![Practical 3.0 - CNN basics](http://img.youtube.com/vi/kwCbmx3tFwY/0.jpg)](http://www.youtube.com/watch?v=kwCbmx3tFwY)
+[![Practical 3.0 - CNN basics](http://img.youtube.com/vi/kwCbmx3tFwY/0.jpg)](https://youtu.be/kwCbmx3tFwY?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 ### 3.1 - CNN – Internals ([slide](res/3.1/slides.pdf), [script](res/3.1/script.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
 
-[![Practical 3.1 - CNN internals](http://img.youtube.com/vi/BCensUz_gQ8/0.jpg)](http://www.youtube.com/watch?v=BCensUz_gQ8)
+[![Practical 3.1 - CNN internals](http://img.youtube.com/vi/BCensUz_gQ8/0.jpg)](https://youtu.be/BCensUz_gQ8?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
 Advanced models and `optim` based training coming soon! :blush:
