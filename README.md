@@ -41,12 +41,16 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 ## 3 - Convolutional Neural Networks
 
-### 3.0 - CNN – Basics ([slide](res/3.0/slides.pdf), [`lin`](res/3.0/lin.lua), [`3conv`](res/3.0/3conv.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
+### 3.0 - CNN – Basics ([slides](res/3.0/slides.pdf), [`lin`](res/3.0/lin.lua), [`3conv`](res/3.0/3conv.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
 
 [![Practical 3.0 - CNN basics](http://img.youtube.com/vi/kwCbmx3tFwY/0.jpg)](https://youtu.be/kwCbmx3tFwY?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
-### 3.1 - CNN – Internals ([slide](res/3.1/slides.pdf), [script](res/3.1/script.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
+### 3.1 - CNN – Internals ([slides](res/3.1/slides.pdf), [script](res/3.1/script.lua), [`3conv-pool`](res/3.0/3conv-pool.lua))
 
 [![Practical 3.1 - CNN internals](http://img.youtube.com/vi/BCensUz_gQ8/0.jpg)](https://youtu.be/BCensUz_gQ8?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
-Advanced models and `optim` based training coming soon! :blush:
+### 3.2 - CNN – Architectures ([slides](res/3.2/slides.pdf), [`LeNet5`](res/3.2/LeNet5.lua), [`AlexNet`](res/3.2/AlexNet.lua), [`GoogLeNet`](res/3.2/GoogLeNet.lua))
+
+[![Practical 3.2 - CNN models](http://img.youtube.com/vi/LYYwUr0vCjg/0.jpg)](https://youtu.be/LYYwUr0vCjg?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+`optim` based training coming soon! :blush:
