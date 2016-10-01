@@ -53,4 +53,11 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 [![Practical 3.2 - CNN models](http://img.youtube.com/vi/LYYwUr0vCjg/0.jpg)](https://youtu.be/LYYwUr0vCjg?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
-`optim` based training coming soon! :blush:
+### 3.3 - CNN – Training ([slides](res/3.3/slides.pdf), [`train.lua`](res/3.3/train.lua))
+
+[![Practical 3.3 - CNN models](http://img.youtube.com/vi/kcOJEplX7i0/0.jpg)](https://youtu.be/kcOJEplX7i0?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+
+## 4 - Recurrent Neural Networks
+
+Coming soon! :blush:
