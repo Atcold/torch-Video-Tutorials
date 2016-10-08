@@ -57,6 +57,10 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 [![Practical 3.3 - CNN models](http://img.youtube.com/vi/kcOJEplX7i0/0.jpg)](https://youtu.be/kcOJEplX7i0?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
+### 3.4 - CNN – Loss functions ([slides](res/3.4/slides.pdf))
+
+[![Practical 3.4 - CNN loss](http://img.youtube.com/vi/ejr6eaJKtcs/0.jpg)](https://youtu.be/ejr6eaJKtcs?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
 
 ## 4 - Recurrent Neural Networks
 
