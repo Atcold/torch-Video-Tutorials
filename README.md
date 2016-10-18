@@ -64,4 +64,16 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 ## 4 - Recurrent Neural Networks
 
-Coming soon! :blush:
+### 4.0 - RNN – Vectors and sequences ([slides](res/4.0/slides.pdf))
+
+[![Practical 4.0 - RNN, vec and seq](http://img.youtube.com/vi/bUIAsEw7_9U/0.jpg)](https://youtu.be/bUIAsEw7_9U?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+### 4.1 - RNN – Forward and backward ([slides](res/4.1/slides.pdf))
+
+[![Practical 4.1 - RNN, fwd and back](http://img.youtube.com/vi/WwslsYQX77s/0.jpg)](https://youtu.be/WwslsYQX77s?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+### 4.2 - RNN – `nngraph` package ([slides](res/4.2/slides.pdf), [script](res/4.2/script.lua))
+
+[![Practical 4.2 - nngraph package](http://img.youtube.com/vi/FL_VTcp9jvw/0.jpg)](https://youtu.be/FL_VTcp9jvw?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+Full training script coming soon! :blush:
