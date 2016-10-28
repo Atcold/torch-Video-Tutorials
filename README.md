@@ -76,4 +76,8 @@ Enjoy the view of these videos, transcripts and quizes (you can find in the [`re
 
 [![Practical 4.2 - nngraph package](http://img.youtube.com/vi/FL_VTcp9jvw/0.jpg)](https://youtu.be/FL_VTcp9jvw?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 
-Full training script coming soon! :blush:
+### 4.3 - RNN – Training ([slides](res/4.3/slides.pdf))
+
+[![Practical 4.3 - RNN training](http://img.youtube.com/vi/lRN0wayLTeo/0.jpg)](https://youtu.be/lRN0wayLTeo?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
+
+LSTM and training with `rnn` package coming soon! :blush:
